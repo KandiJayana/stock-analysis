@@ -1,7 +1,7 @@
 # Stock Analysis
 
 ## Overview of Project:
-- Refactor the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, I will determine whether refactoring your code successfully made the VBA script run faster.
+- Refactor the Module 2 solution code to loop through all the data one time in order to collect the same information that I did in this module. Then, I was able to determine whether refactoring the code successfully made the VBA script run faster.
 
 ## Results: 
 #### Bellow the refectored code
